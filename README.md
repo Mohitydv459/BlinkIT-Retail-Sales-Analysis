@@ -9,10 +9,11 @@ This project demonstrates the complete end-to-end data analysis pipeline on a gr
 
 The pipeline covers data cleaning in Python, advanced metric calculation in SQL, and interactive visualization in Power BI.
 
-*File  :- BlinkIT Grocery DataUncleaned.csv* 
-Type  :- Unclean/Raw Data                              	
-Description :- The unclean data on whicj we perform varios operations
-BlinkIT Grocery DataUncleaned.csv                Unclean/Raw Data                       The unclean data on whicj we perform varios operations
+# Data Description
+
+[BlinkIT Grocery Data Uncleaned.csv](https://github.com/user-attachments/files/23169193/BlinkIT.Grocery.Data.Uncleaned.csv)
+Description :- The unclean data on which we perform varios operations
+
 python code.ipynb	                             Python Script	                    Complete code for Data Cleaning and Feature Engineering.
 Mysql KPIs.sql	                                 SQL Script	                        Contains all 13 analytical KPI queries and the final CREATE VIEW statements.
 Blinkit Grocery cleaned.csv                      Clean Data	                        The final, fully processed dataset ready for visualization.
