@@ -11,10 +11,10 @@ The pipeline covers data cleaning in Python, advanced metric calculation in SQL,
 
 # Data Description
 
-[BlinkIT Grocery Data Uncleaned.csv](https://github.com/user-attachments/files/23169193/BlinkIT.Grocery.Data.Uncleaned.csv)
-Description :- The unclean data on which we perform varios operations
+[BlinkIT Grocery Data Uncleaned.csv](https://github.com/user-attachments/files/23169193/BlinkIT.Grocery.Data.Uncleaned.csv)     Description :- The unclean data on which we perform varios operations
 
-python code.ipynb	                             Python Script	                    Complete code for Data Cleaning and Feature Engineering.
+[python code.ipynb](https://github.com/user-attachments/files/23169241/python.code.ipynb)       Description :- Complete code for Data Cleaning and Feature Engineering.
+
 Mysql KPIs.sql	                                 SQL Script	                        Contains all 13 analytical KPI queries and the final CREATE VIEW statements.
 Blinkit Grocery cleaned.csv                      Clean Data	                        The final, fully processed dataset ready for visualization.
 FINAL DASHBOARD BLINKIT.pbix	                 Power BI Report	                The final interactive report, including the data model, DAX measures, and all                                                                                          visualization pages.
