@@ -23,7 +23,8 @@ Description :- The final, fully processed dataset ready for visualization.
 [Mysql KpIs.sql](https://github.com/user-attachments/files/23169251/Mysql.KpIs.sql)
 Description :- Contains all analytical KPI queries and the final CREATE VIEW statements.
 
-<img width="1348" height="747" alt="Screenshot 2025-10-27 212127" src="https://github.com/user-attachments/assets/db946ceb-5ec6-4bfa-8253-3435c212f9d8" />
+<img width="1436" height="785" alt="Screenshot 2025-10-28 085717" src="https://github.com/user-attachments/assets/94febb32-afbb-4af3-9a69-9fff42a3db07" />
 Description :-  The final interactive report, including the data model, DAX measures, and all visualization pages.
+
 
 
