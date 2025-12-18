@@ -16,7 +16,7 @@ Blinkit needs to optimize its inventory and sales strategies across various outl
 Before analysis, the raw dataset required significant cleaning and transformation. The following steps were executed in the Python Jupyter Notebook (`Blinkit sales Analysis.ipynb`):
 
 1.  **Handling Missing Values:**
-    * `Item Weight`: Missing values were imputed using the **mean** weight to maintain data integrity.
+    * `Item Weight`: Missing values were imputed using the **mean** weight to maintain data integrity (First check for outliers in 'Item Weight')).
 2.  **Data Standardization:**
     * `Item Fat Content`: Inconsistent labels (e.g., "LF", "low fat", "reg") were standardized into two clear categories: **"Low Fat"** and **"Regular"**.
 3.  **Feature Engineering:**
